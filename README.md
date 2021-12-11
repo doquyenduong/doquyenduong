@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doquyenduong
+- 👋 Hi, I’m @doquyenduong (Quyen)
 - 👀 I’m interested in movies, music, cuisine, machine learning, data science, business analytics, business 
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science projects 

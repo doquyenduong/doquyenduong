@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doquyenduong (Quyen)
-- 👀 I’m interested in movies, music, cuisine, machine learning, data science, business analytics, business 
+- 👀 I’m interested in movies, music, food, culture, languages, machine learning, data science, business analytics, business 
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science projects 
 - 📫 How to reach me: send me message on GitHub

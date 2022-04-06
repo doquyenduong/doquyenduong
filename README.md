@@ -13,7 +13,7 @@
 
 ## I'm [**Quyen**](https://www.linkedin.com/in/quyen-duong/) and welcome to my GitHub profile! :octocat:
 
-<img align="right" height="150" width="275" alt="GIF" src="https://2.bp.blogspot.com/-UuUF599KGfw/W982ehcse0I/AAAAAAAAAGc/1rjT6r24G6QsaScRt8lJQKeIZERdmzNaQCEwYBhgL/s1600/31846942_450333602057322_1419235942547324928_n.gif" />
+<img align="right" height="100" width="175" alt="GIF" src="https://2.bp.blogspot.com/-UuUF599KGfw/W982ehcse0I/AAAAAAAAAGc/1rjT6r24G6QsaScRt8lJQKeIZERdmzNaQCEwYBhgL/s1600/31846942_450333602057322_1419235942547324928_n.gif" />
 
 I'm a **`Data Science newbie`** & **`Data enthusiast`**!
 
@@ -22,8 +22,9 @@ I'm a **`Data Science newbie`** & **`Data enthusiast`**!
 * 👩‍🎓 Before switching to Data Science, I studied Hospitality and Event Management then Business Administration.
 * ✍️ Currently pursuing MSc Data Science and Applied Information @ [**Lucerne University of Applied Sciences and Arts**](https://www.hslu.ch/en/) to explore the field and gain my knowledge to become a data scientist - the sexiest job of the 21st century 😉. 
 * 🔊 I have neutral opinions towards R & Python (two main languages for data science but the language to use will depend on the use case & companies' products)
-* 📈 Fascinated in **`Data analysis`** 📊, **`Data vizualization`**, **`Predictive Analytics`**, **`Applied Machine Learning`** and using statistical models to solve business problems.
-* 😍 Love food 🍹🍜🍚🍲🍱 culture, art, travel 🗺🌎, colors 🎨, movies 📽, music 🎶🎵 🌆🍉🌱✨🌞 etc. etc.
+* 📈 Fascinated in **`Data analysis`** 📊, **`Data vizualization`** to find trends, patterns & insights. 
+* ✨ Interested in **`Predictive Analytics`**, **`Applied Machine Learning`** and using statistical models to solve business problems.
+* 😍 Love food 🍹🍜🍚🍲🍱, culture🎎, languages, art, history, going out, travel 🗺🌎, colors 🎨, movies 📽, music 🎶🎵 🌆🍉🌱🌞 etc. etc.
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 

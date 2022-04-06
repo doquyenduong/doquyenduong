@@ -1,4 +1,4 @@
-<p  align="center"><img style="width:300px", src = "https://i.pinimg.com/originals/c0/5a/4c/c05a4c88320d01df93c049368d2c4c5a.gif"></p>
+<p  align="center"><img style="width:250px", src = "https://i.pinimg.com/originals/c0/5a/4c/c05a4c88320d01df93c049368d2c4c5a.gif"></p>
 
 # Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 

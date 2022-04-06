@@ -5,10 +5,13 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-68d89b.svg?style=flat&logo=github)](https://github.com/doquyenduong/)
 
 <a href="https://www.linkedin.com/in/quyen-duong/">
-  <img align="left" alt="Leah's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Quyen's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/doquyenduong/doquyenduong/">
-  <img align="left" alt="Leah's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Quyen's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://www.instagram.com/kuekiduong/">
+  <img align="left" alt="Quyen's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <br />
 
 ## I'm [**Quyen**](https://www.linkedin.com/in/quyen-duong/) and welcome to my GitHub profile! :octocat:

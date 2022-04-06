@@ -24,7 +24,7 @@ I'm a **`Data Science newbie`** & **`Data enthusiast`**!
 
 * 👩‍🎓 Before switching to Data Science, I studied Hospitality and Event Management then Business Administration.
 * ✍️ Currently pursuing MSc Data Science and Applied Information @ [**Lucerne University of Applied Sciences and Arts**](https://www.hslu.ch/en/) to explore the field and gain my knowledge to become a data scientist - the sexiest job of the 21st century 😉. 
-* 🔊 I have neutral opinions towards R & Python (two main languages for data science but the language to use will depend on the use case & companies' products)
+* 🔊 Neutral as Switzerland towards R & Python (the language will depend on the use case & companies' products)
 * 📈 Fascinated in **`Data analysis`**, **`Data visualization`** to find trends, patterns & insights. 
 * ✨ Interested in **`Predictive Analytics`**, **`Applied Machine Learning`** and using statistical models to solve business problems.
 * 😍 Love food 🍹🍜🍚🍲🍱, culture🎎🎏, languages 💚, art, museums, history, going out, travel 🗺🌎, colors 🎨, movies 📽, music 🎶🎵, cute things, 🌆🍉🐼🌱🌞 etc. etc.

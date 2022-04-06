@@ -13,7 +13,7 @@
 
 ## I'm [**Quyen**](https://www.linkedin.com/in/quyen-duong/) and welcome to my GitHub profile! :octocat:
 
-<img align="right" height="100" width="175" alt="GIF" src="https://2.bp.blogspot.com/-UuUF599KGfw/W982ehcse0I/AAAAAAAAAGc/1rjT6r24G6QsaScRt8lJQKeIZERdmzNaQCEwYBhgL/s1600/31846942_450333602057322_1419235942547324928_n.gif" />
+<img align="right" height="160" width="255" alt="GIF" src="https://2.bp.blogspot.com/-UuUF599KGfw/W982ehcse0I/AAAAAAAAAGc/1rjT6r24G6QsaScRt8lJQKeIZERdmzNaQCEwYBhgL/s1600/31846942_450333602057322_1419235942547324928_n.gif" />
 
 I'm a **`Data Science newbie`** & **`Data enthusiast`**!
 

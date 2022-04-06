@@ -24,7 +24,7 @@ I'm a **`Data Science newbie`** & **`Data enthusiast`**!
 * 🔊 I have neutral opinions towards R & Python (two main languages for data science but the language to use will depend on the use case & companies' products)
 * 📈 Fascinated in **`Data analysis`** 📊, **`Data vizualization`** to find trends, patterns & insights. 
 * ✨ Interested in **`Predictive Analytics`**, **`Applied Machine Learning`** and using statistical models to solve business problems.
-* 😍 Love food 🍹🍜🍚🍲🍱, culture🎎, languages, art, history, going out, travel 🗺🌎, colors 🎨, movies 📽, music 🎶🎵 🌆🍉🌱🌞 etc. etc.
+* 😍 Love food 🍹🍜🍚🍲🍱, culture🎎, languages, art, museums, history, going out, travel 🗺🌎, colors 🎨, movies 📽, music 🎶🎵, cute things, 🌆🍉🌱🌞 etc. etc.
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 

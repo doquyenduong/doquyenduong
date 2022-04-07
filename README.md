@@ -26,7 +26,7 @@ I'm a **`Data Science newbie`** & **`Data enthusiast`**!
 * ✍️ Currently pursuing MSc Data Science & Applied Information @ [**Lucerne University of Applied Sciences and Arts**](https://www.hslu.ch/en/) to explore the field and gain my knowledge to become a data scientist - the sexiest job of the 21st century 😉. 
 * 🔊 Neutral as Switzerland towards R & Python (the language will depend on the use case & companies' products)
 * 📈 Fascinated in **`Data analysis`**, **`Data visualization`** to find trends, patterns & insights. 
-* ✨ Interested in **`Predictive Analytics`**, **`Applied Machine Learning`** and using statistical models to solve business problems.
+* ✨ Interested in **`Predictive Analytics`**, **`Applied Machine Learning`** and using statistical models to solve business problems & predict future.
 * 😍 Love food 🍹🍜🍚🍲🍱, culture🎎🎏, languages 💚, art, museums, history, going out, travel 🗺🌎, colors 🎨, movies 📽, music 🎶🎵, cute things, 🌆🍉🐼🌱🌞 etc. etc.
 * ✅ Humble, curious, modest, ambitious, dare to dream 
 

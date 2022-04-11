@@ -18,15 +18,15 @@
 
 <img align="right" height="160" width="255" alt="GIF" src="https://2.bp.blogspot.com/-UuUF599KGfw/W982ehcse0I/AAAAAAAAAGc/1rjT6r24G6QsaScRt8lJQKeIZERdmzNaQCEwYBhgL/s1600/31846942_450333602057322_1419235942547324928_n.gif" />
 
-I'm a **`Data Science newbie`** & **`Data enthusiast`**!
+I'm a **`data science newbie`** & **`data enthusiast`**!
 
 ❤️ **Fun facts:**
 
 * 👩‍🎓 Before switching to Data Science, I studied Hospitality & Event Management then Business Administration.
 * ✍️ Currently pursuing MSc Data Science & Applied Information @ [**Lucerne University of Applied Sciences and Arts**](https://www.hslu.ch/en/) to explore the field and gain my knowledge to become a data scientist - the sexiest job of the 21st century 😉. 
 * 🔊 Neutral as Switzerland towards R & Python (the language will depend on the use case & companies' products)
-* 📈 Fascinated in **`Data analysis`**, **`Data visualization`** to find trends, patterns & insights. 
-* ✨ Interested in **`Predictive Analytics`**, **`Applied Machine Learning`** and using statistical models to solve business problems & predict future.
+* 📈 Fascinated in **`data analysis`**, **`data visualization`** to find trends, patterns & insights. 
+* ✨ Interested in **`predictive analytics`**, **`applied machine learning`** and using statistical models to solve business problems & predict future.
 * 😍 Love food 🍹🍜🍚🍲🍱, culture🎎🎏, languages 💚, art, museums, history, going out, travel 🗺🌎, colors 🎨, movies 📽, music 🎶🎵, interior styles, architecture, cute things, 🌆🍉🐼🌱🌞 etc. etc.
 * ✅ Humble, curious, modest, ambitious, dare to dream 
 

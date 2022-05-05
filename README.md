@@ -2,8 +2,6 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-68d89b.svg?style=flat&logo=github)](https://github.com/doquyenduong/)
-
 <a href="https://www.linkedin.com/in/quyen-duong/">
   <img align="left" alt="Quyen's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>

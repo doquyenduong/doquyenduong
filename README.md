@@ -21,11 +21,12 @@ I'm a **`data science newbie`** & **`data enthusiast`**!
 ❤️ **Fun facts:**
 
 * 👩‍🎓 Before switching to Data Science, I studied Hospitality & Event Management then Business Administration.
-* ✍️ Currently pursuing MSc Data Science & Applied Information @ [**Lucerne University of Applied Sciences and Arts**](https://www.hslu.ch/en/) to explore the field & gain knowledge to become a business analyst / business intelligence specialist / data analyst / data scientist - the sexiest job of the 21st century 😉 (orient to work in front-end data positions). 
+* ✍️ Currently pursuing MSc Data Science & Applied Information @ [**Lucerne University of Applied Sciences and Arts**](https://www.hslu.ch/en/) to explore the field & gain knowledge to become a business analyst / business intelligence specialist / data analyst / data scientist - the sexiest job of the 21st century 😉.
+* 🐼 Oriented future: front-end data positions.
 * 🔊 Neutral as Switzerland towards R & Python (the language will depend on use cases & companies' products)
 * 📈 Fascinated in **`data analysis`**, **`data visualization`** to find trends, patterns, insights & make business decisions. 
 * ✨ Interested in **`predictive analytics`**, **`applied machine learning`** and using statistical models to solve business problems & predict future.
-* 😍 Love food 🍹🍜🍚🍲🍱, culture🎎🎏, languages 💚, art, museums, history, going out, travel 🗺🌎, colors 🎨, movies 📽, music 🎶🎵, interior styles, architecture, cute things, 🌆🍉🐼🌱 etc. etc.
+* 😍 Love food 🍹🍜🍚🍲🍱, culture🎎🎏, languages 💚, art, museums, history, going out, travel 🗺🌎, colors 🎨, movies 📽, music 🎶🎵, interior styles, architecture, cute things, 🌆🍉🌱 etc. etc.
 * ✅ Humble, curious, modest, ambitious, dare to dream 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 

@@ -27,7 +27,7 @@ I'm a **`data science newbie`** & **`data enthusiast`**!
 * 📈 Fascinated in **`data analysis`**, **`data visualization`** to find trends, patterns, insights & make business decisions. 
 * ✨ Interested in **`predictive analytics`**, **`applied machine learning`** and using statistical models to solve business problems & predict future.
 * 😍 Love food 🍹🍜🍚🍲🍱, culture🎎🎏, languages 💚, art, museums, history, going out, travel 🗺🌎, colors 🎨, movies 📽, music 🎶🎵, interior styles, architecture, cute things, 🌆🍉🌱 etc. etc.
-* ✅ Humble, curious, modest, ambitious, dare to dream 
+* ✅ Humble, curious, modest, ambitious, dare to dream, both goal-&-process oriented 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
 

@@ -20,7 +20,7 @@ I'm a **`data enthusiast`**!
 
 ❤️ **Fun facts:**
 
-* 👩‍🎓 Before switching to Data Science, I studied Hospitality & Event Management then Business Administration with specilization in Banking & Finance.
+* 👩‍🎓 Before switching to Data Science, I studied Hospitality & Event Management then Business Administration with the specialization in Banking & Finance.
 * ✍️ Graduated from MSc Data Science & Applied Information @ [**Lucerne University of Applied Sciences and Arts**](https://www.hslu.ch/en/) to deep dive into the field & gain knowledge and became a business analyst / business intelligence specialist / data analyst / data scientist - the sexiest job of the 21st century 😉.
 * 🐼 I'm making impacts at Deloitte as a Data Analyst.
 * 🔊 Neutral as Switzerland towards R & Python (the language will depend on use cases & companies' products). I'm trying to be the same for Power BI & Tableau =))
